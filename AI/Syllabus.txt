@@ -1,0 +1,5 @@
+1. Intelligent Agent
+2. Genetic algoithms and Constraints Satisfaction - Intelligent Backtracking ,Hill Climbing, Depth First Search, Breadth First Search
+3. Naive Bayes classifier
+4. Reinforcement Learning (RL Agent)
+5. Artificial Neural Networks (ANNs) 

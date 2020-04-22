@@ -1,0 +1,84 @@
+JDBC Introduction
+MySql Database
+Open source
+Drivers
+Types of Drivers 
+Connecting JDBC with MySql 
+Statements
+Creating databases from Java 
+Creating tables from Java 
+Querying using ResultSet 
+CRUD using JDBC
+Using PreparedStatement 
+Batch processing
+Transaction
+Exceptions in JDBC
+
+All the design patterns we have learnt from class and student presentations
+Web container introduction and their responsibilities
+HttpServletRequest and HttpServletResponse objects
+GET and POST methods 
+Deployment Descriptor (web.xml) 
+Life Cycle of Servlets 
+Request Headers and Response Headers 
+ServletConfig
+ServletContext 
+
+
+Servlet Chaining 
+RequestDispatcher class 
+The forward() and include() and it's differences 
+Session Management and Tracking Introduction 
+Sessions in Servlet and HttpSession interface
+Cookies in a web application 
+URL Rewriting in Servlets 
+ServletRequestListener
+ServletRequestAttributeListener
+ServletContextListener
+ServletContextAttributeListener
+HttpSessionListener
+HttpSessionAttributeListener
+Filters creation and configuration 
+Audit Filter 
+Authentication Filter 
+Filter Chaining-Applying a Filter for multiple Servlets 
+Applying multiple filters for single Servlet.
+
+JSP Introduction 
+Life Cycle of JSP (Translation, compilation) 
+JSP Syntax –
+Scriptlet tag
+Expression tag
+Declaration tag 
+Comment tags 
+Role of JSP in MVC
+JSP Implicit objects: 
+request
+response 
+out 
+session 
+application 
+config 
+pageContext 
+page
+exception 
+
+JSP Directive elements: 
+page (With all attributes)
+include  (with all attributes)
+taglib (with all attributes)
+
+JSP Action tags: 
+jsp:forward 
+jsp:include 
+jsp:useBean 
+setting and getting properties for beans using jsp:useBean 
+
+JSTL
+core tag
+sql tag
+xml tag
+function tag
+format tag
+
+Jsp custom tags
